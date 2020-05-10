@@ -6,7 +6,7 @@ So this is a simple kata: a series of questions, each asking for a rough answer.
 ## How Big?
 - roughly how many binary digits (bit) are required for the unsigned representation of:
 
- - + 1,000
+ + + 1,000
  + + 1,000,000
  + + 1,000,000,000
  + + 1,000,000,000,000
