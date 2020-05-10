@@ -24,7 +24,7 @@ So this is a simple kata: a series of questions, each asking for a rough answer.
 
 ![alt text](https://ak.picdn.net/shutterstock/videos/2602358/thumb/3.jpg)
 
-*fordítás: Milyen nagy? Milyen gyors?
+*fordítás: Milyen nagy? Milyen gyors?*
 
 *Birtoklunk egy használható durva becslőképességet. Mielőtt kódolna, fel kell mérnie, hogy, mekkora lesz az adatstruktúra, vagy milyen gyorsan fog lefutni a kitérő. Minél gyorsabban meg tudja ezt csinálni, annál kissebb a kódolás problémája.
 Tehát ez egy egyszerű kata: egy sor kérdés, mindegyik a durva/hozzávetőleges válaszra várva.Próbálj meg mindent a fejedben kidolgozni.Kb. egy hét múlva felteszem a válaszokat (ill. kidolgozásokat).
